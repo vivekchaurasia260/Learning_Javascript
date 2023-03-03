@@ -1,0 +1,14 @@
+What is jQuery and Why we are using it ?
+- jQuery is a Javascript library
+- It is just a large single .js file that has many pre-built methods and objects that simplify your workflow
+- Specifically interacting with the DOM and making HTTP requests (AJAX).
+- Earlier we are using DOM where we are using "document.getElementById();" and "document.querySelector".
+
+// The difference between jQuery and DOM is:
+
+Ex:
+//jQuery
+var divs = $('div');
+
+//DOM
+var divs = document.querySelectorAll('div');
