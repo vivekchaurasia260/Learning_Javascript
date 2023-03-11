@@ -2,3 +2,5 @@
 Learning javascript for beginner
 
 JS_Array
+
+JS_DOM
