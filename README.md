@@ -8,3 +8,5 @@ JS_DOM
 JS_Function
 
 JS_Project
+
+JS_Object
