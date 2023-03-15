@@ -4,3 +4,5 @@ Learning javascript for beginner
 **JS_Array**
 
 **JS_DOM**
+
+**JS_Function**
