@@ -6,5 +6,3 @@ Learning javascript for beginner
 **JS_DOM**
 
 **JS_Function**
-
-
