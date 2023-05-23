@@ -7,4 +7,3 @@ Learning javascript for beginner
 
 **JS_Function**
 
-fgufj
