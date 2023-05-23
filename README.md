@@ -7,4 +7,4 @@ Learning javascript for beginner
 
 **JS_Function**
 
-**ES-6**
+**ES6**
