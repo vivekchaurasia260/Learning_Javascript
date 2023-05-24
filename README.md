@@ -10,3 +10,5 @@ Learning javascript for beginner
 **ES6**
 
 **DOM**
+
+**Jquery**
