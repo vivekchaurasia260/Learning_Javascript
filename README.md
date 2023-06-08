@@ -15,9 +15,3 @@ Learning javascript for beginner
 
 **SASS**
 
-**ksjfdgh*
-
-**ldsg**
-
-**ksjhgdf**
-
