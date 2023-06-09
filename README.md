@@ -14,5 +14,3 @@ Learning javascript for beginner
 **Jquery**
 
 **SASS**
-
-jhhvjh
