@@ -15,5 +15,3 @@ Learning javascript for beginner
 
 **SASS**
 
-sdfsfg
-
