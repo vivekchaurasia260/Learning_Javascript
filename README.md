@@ -12,7 +12,7 @@ Learning javascript for beginner
 **DOM**
 Document Object Model is having different query selectors
 where we can find different elements
-
+There are different query Selectors in DOM
 **Jquery**
 
 **SASS**
