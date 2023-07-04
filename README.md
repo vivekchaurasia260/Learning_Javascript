@@ -10,6 +10,7 @@ Learning javascript for beginner
 **ES6**
 
 **DOM**
+Document Object Model is having different
 
 **Jquery**
 
