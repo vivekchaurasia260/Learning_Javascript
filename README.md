@@ -10,7 +10,8 @@ Learning javascript for beginner
 **ES6**
 
 **DOM**
-Document Object Model is having different
+Document Object Model is having different query selectors
+where we can find different elements
 
 **Jquery**
 
