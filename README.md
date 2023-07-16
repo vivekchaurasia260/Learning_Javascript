@@ -20,5 +20,4 @@ There are different query Selectors in DOM
 sfg
 fgs
 fsg
-fsgh
-ssfg
+
