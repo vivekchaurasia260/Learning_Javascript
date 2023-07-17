@@ -17,6 +17,9 @@ There are different query Selectors in DOM
 
 **SASS**
 
-
+wrt
+rwe
+yt
+y
 
 
