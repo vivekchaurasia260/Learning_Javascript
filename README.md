@@ -17,6 +17,11 @@ There are different query Selectors in DOM
 
 **SASS**
 
+wr
+tffgsfg
+
+efgertg
+
 wrt
 rwe
 yt
