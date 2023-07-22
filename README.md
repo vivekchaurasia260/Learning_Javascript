@@ -27,6 +27,3 @@ rwe
 yt
 sfg
 sfgd
-
-sfgsf
-fggf
