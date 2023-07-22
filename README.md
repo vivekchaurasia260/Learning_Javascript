@@ -25,5 +25,4 @@ efgertg
 wrt
 rwe
 yt
-sfg
-sfgd
+
