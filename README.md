@@ -23,6 +23,3 @@ tffgsfg
 efgertg
 
 wrt
-rwe
-yt
-
