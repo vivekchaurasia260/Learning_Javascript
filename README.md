@@ -20,6 +20,4 @@ There are different query Selectors in DOM
 wr
 tffgsfg
 
-efgertg
-
-wrt
+efger
