@@ -17,5 +17,4 @@ There are different query Selectors in DOM
 
 **SASS**
 
-wr
-e
+kjrnsg
