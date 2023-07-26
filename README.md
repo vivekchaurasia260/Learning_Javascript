@@ -20,3 +20,5 @@ There are different query Selectors in DOM
 kjrnsg
 wrtw
 wrt
+rewy
+ery
