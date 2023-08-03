@@ -18,5 +18,3 @@ There are different query Selectors in DOM
 **SASS**
 
 fsg
-sfgsf
-g
