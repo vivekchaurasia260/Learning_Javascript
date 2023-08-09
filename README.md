@@ -19,6 +19,3 @@ There are different query Selectors in DOM
 
 gef
 dgg
-dg
-fsgw
-
