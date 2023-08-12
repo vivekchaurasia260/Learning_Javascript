@@ -18,5 +18,4 @@ There are different query Selectors in DOM
 **SASS**
 
 jyg
-hgfg
-jhgj
+hg
