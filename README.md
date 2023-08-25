@@ -1,4 +1,4 @@
-# Learning_Javascript
+df# Learning_Javascript
 Learning javascript for beginner
 
 **JS_Array**
@@ -19,5 +19,3 @@ There are different query Selectors in DOM
 
 sgs
 g
-sg
-s
