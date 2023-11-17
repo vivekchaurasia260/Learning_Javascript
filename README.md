@@ -20,9 +20,4 @@ There are different query Selectors in DOM
 ewr
 nbdf
 er
-er
 
-khb
-khj
-kh
-jkh
