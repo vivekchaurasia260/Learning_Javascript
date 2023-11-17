@@ -17,7 +17,3 @@ There are different query Selectors in DOM
 
 **SASS**
 
-ewr
-nbdf
-er
-
