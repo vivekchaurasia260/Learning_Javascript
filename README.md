@@ -17,10 +17,10 @@ There are different query Selectors in DOM
 
 **SASS**
 
-sgs
-g
-mnbdf
-
+ewr
+nbdf
+er
+er
 
 khb
 khj
