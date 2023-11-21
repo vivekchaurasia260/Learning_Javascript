@@ -19,3 +19,7 @@ There are different query Selectors in DOM
 
 jhg
 dgb
+wsg
+sg
+sg
+s
