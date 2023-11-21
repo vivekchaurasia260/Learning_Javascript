@@ -19,7 +19,3 @@ There are different query Selectors in DOM
 
 jhg
 dgb
-
-fd
-sfg
-dfg
