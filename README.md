@@ -18,3 +18,6 @@ There are different query Selectors in DOM
 **SASS**
 
 sfj
+da
+gfs
+gf
