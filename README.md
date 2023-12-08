@@ -18,9 +18,7 @@ There are different query Selectors in DOM
 **SASS**
 
 sfg
-gwgffg
-sdsg
-wrt
+gwgff
 fwg
 
 fs
