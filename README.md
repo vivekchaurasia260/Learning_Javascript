@@ -21,7 +21,4 @@ sfg
 gwgff
 fwg
 
-fs
-g
 
-g
