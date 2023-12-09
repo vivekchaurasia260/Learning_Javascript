@@ -17,6 +17,6 @@ There are different query Selectors in DOM
 
 **SASS**
 
-sfg
-gw
-
+s
+fsg
+gf
