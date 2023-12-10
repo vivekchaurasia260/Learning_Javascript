@@ -19,4 +19,3 @@ There are different query Selectors in DOM
 
 s
 kjh
-khgh
