@@ -19,5 +19,4 @@ There are different query Selectors in DOM
 
 ssdfgs
 sfg
-wfg
-sfgfs
+w
