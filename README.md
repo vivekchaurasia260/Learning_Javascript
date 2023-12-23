@@ -16,6 +16,6 @@ There are different query Selectors in DOM
 **Jquery**
 
 **SASS**
-
-ege
-er
+wr
+wrt
+ret
