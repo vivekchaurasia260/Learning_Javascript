@@ -19,3 +19,6 @@ There are different query Selectors in DOM
 
 sfg
 fsg
+sg
+sfg
+sgf
