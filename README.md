@@ -17,7 +17,4 @@ There are different query Selectors in DOM
 
 **SASS**
 adfwgf
-sdgsfg
-sfg
-sf
-g
+sdg
