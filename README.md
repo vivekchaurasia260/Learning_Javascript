@@ -16,9 +16,4 @@ There are different query Selectors in DOM
 **Jquery**
 
 **SASS**
-sfv
-sf
-fsg
-gd
-sfg
-sf
+
