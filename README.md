@@ -19,3 +19,5 @@ There are different query Selectors in DOM
 wrttr
 dg
 sfg
+sfg
+sg
