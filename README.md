@@ -19,5 +19,3 @@ There are different query Selectors in DOM
 wr
 sgs
 sfgh
-dty
-dgyh
