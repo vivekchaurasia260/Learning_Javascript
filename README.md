@@ -19,3 +19,5 @@ There are different query Selectors in DOM
 ytfh
 fsg
 sf
+fwg
+sfg
